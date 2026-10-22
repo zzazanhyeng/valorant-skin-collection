@@ -1,0 +1,17 @@
+{
+  "name": "발로란트 스킨 컬렉션",
+  "short_name": "발로란트 스킨",
+  "description": "VALORANT 무기 스킨, 배틀패스 스킨, 크로마와 업그레이드를 살펴보세요.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050605",
+  "theme_color": "#44d62c",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
